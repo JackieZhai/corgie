@@ -92,7 +92,7 @@ s3transfer==0.6.0
 scalenet==0.1.0
 scikit-image==0.19.3
 scipy==1.9.1
-simplejpeg==1.6.5
+simplejpeg==1.6.3
 six==1.16.0
 snowballstemmer==2.2.0
 Sphinx==5.1.1
