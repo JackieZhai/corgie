@@ -1,4 +1,7 @@
 /tests/img
+/tests/mean_img_norm
+/tests/var_img_norm
+/tests/aligned_blockmatch
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
